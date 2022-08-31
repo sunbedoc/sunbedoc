@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatih, @sunbedoc.
-- 🌱 I’m recently started to learning python.
+- 🌱 I’m recently started to learning Python.
 - 👀 Relationship between our human being intelligence and machines excites me.
 - 💞️ I want to collaborate on which i can make simple tasks and learn about AI. 
 - 📫 Reach me: fatihdeniz2002@hotmail.com
