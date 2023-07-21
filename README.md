@@ -1,7 +1,7 @@
-- 👋 Hi, Its Fatih, @sunbedoc.
--  Relationship between our human being intelligence and machines excites me.
--  I want to collaborate on which i can make simple tasks and learn about AI. 
-- 📫 Reach me: fatihdeniz2002@hotmail.com
+   me, physiotherapy student Fatih
+   colebrating our primative intelligence with machines excites me
+   i need a mentor. it would be nice when you got tasks to make me learn ai for this               from nothing(sorry)
+   fatihdeniz2002@hotmail.com
 <!---
 sunbedoc/sunbedoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
