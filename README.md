@@ -1,4 +1,5 @@
 -  me, physiotherapy student Fatih
+-  i like coffe
 -  neuroprotective mechanisms and methods are fun to work
 -  integration our primative intelligence to machines excites me
 -  i need a mentor. it would be nice if collaborate you to learm ai for these              from nothing (sorry)
