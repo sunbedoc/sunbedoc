@@ -1,7 +1,7 @@
 -  me, physiotherapy student Fatih
 -  neuroprotective mechanisms and methods are fun to work
 -  colebrating our primative intelligence with machines excites me
--  i need a mentor. it would be nice if collaborate you to learm ai for these              from nothing (sorry)
+-  i need a mentor. it would be nice if collaborate you to learm ai (and english further) for these              from nothing (sorry)
 -  and a bit security
 -  fatihdeniz2002@hotmail.com
 <!---
