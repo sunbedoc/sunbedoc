@@ -1,7 +1,7 @@
 -  me, physiotherapy student Fatih
 -  i like coffe
 -  neuroprotective mechanisms and methods are fun to work
--  integration our primative intelligence to machines excites me
+-  does integration our primative intelligence to machines possible
 -  i need a mentor. it would be nice if i collaborate you to learm data&ai for neuroscience (from nothing, for now)
 -  i want to devolop my english with this way too
 -  and a bit security
